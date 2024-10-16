@@ -15,7 +15,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+//xin chao
 app.UseAuthorization();
 
 app.MapControllers();
